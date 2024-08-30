@@ -11,11 +11,11 @@ This project is a web-based dashboard application for visualizing data using Das
 - Interactive and dynamic data visualization.
 
 ## Project Structure
-#sales-dashboard/ │ ├── app/ │ 
-#├── dashboard.py # Main application script │ 
-#├── layoffs.csv # Sample data CSV (optional) │ 
-#├── requirements.txt # List of required Python packages │ 
-#└── README.md # This file
+-sales-dashboard/ │ ├── app/ │ 
+-├── dashboard.py # Main application script │ 
+-├── layoffs.csv # Sample data CSV (optional) │ 
+-├── requirements.txt # List of required Python packages │ 
+-└── README.md # This file
 
 ## Setup Instructions
 
